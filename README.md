@@ -15,6 +15,10 @@ Built with `asyncflows`
 
 This example writes about a topic in the style of another writing sample.
 
+<div align="center">
+<img width="706" alt="style transfer" src="https://github.com/asynchronous-flows/text-style-transfer-example/assets/24586651/463858e2-e7a0-49de-aecf-d14b9d1a6128">
+</div>
+
 ## Running the Example
 
 [![Try in Colab](https://img.shields.io/badge/Run_in_Google_Colab-red)](https://colab.research.google.com/github/asynchronous-flows/text-style-transfer-example/blob/main/text_style_transfer.ipynb)
